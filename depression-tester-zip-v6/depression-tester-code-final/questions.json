@@ -1,0 +1,78 @@
+{
+  "questions": [
+    { "id": 1, "question": "Are you feeling depressed?" },
+    { "id": 2, "question": "Are you feeling hopeless?" },
+    {
+      "id": 3,
+      "question": "Do you feel like you are not interested in anything right now?"
+    },
+    {
+      "id": 4,
+      "question": "Do you have less pleasure in doing things you usually enjoy?"
+    },
+    { "id": 5, "question": "Do you currently have considerably less energy?" },
+    {
+      "id": 6,
+      "question": "Are your everyday tasks making you very tired currently?"
+    },
+    {
+      "id": 7,
+      "question": "Is your self-confidence clearly lower than usual?"
+    },
+    { "id": 8, "question": "Are you feeling up to your tasks?" },
+    { "id": 9, "question": "Are you blaming yourself currently?" },
+    {
+      "id": 10,
+      "question": "Do you think you are worth less than others right now?"
+    },
+    { "id": 11, "question": "Is it hard for you to make decisions currently?" },
+    { "id": 12, "question": "Is it hard for you to concentrate currently?" },
+    { "id": 13, "question": "Did you sleep badly last night?" },
+    { "id": 14, "question": "Do you have less or no appetite today?" },
+    {
+      "id": 15,
+      "question": "Are you thinking about death more often than usual?"
+    },
+    {
+      "id": 16,
+      "question": "Are you thinking that you will be doing well in the future?"
+    },
+    { "id": 17, "question": "Are you looking hopefully into the future?" },
+    { "id": 18, "question": "Rate your happiness level (out of 5)" },
+    {
+      "id": 19,
+      "question": "Read the following text",
+      "audioText": "Read this1"
+    },
+    {
+      "id": 20,
+      "question": "Read the following text",
+      "audioText": "Read this2"
+    },
+    {
+      "id": 21,
+      "question": "Read the following text",
+      "audioText": "Read this3"
+    },
+    {
+      "id": 22,
+      "question": "Read the following text",
+      "audioText": "Read this4"
+    },
+    {
+      "id": 23,
+      "question": "Read the following text",
+      "audioText": "Read this5"
+    },
+    {
+      "id": 24,
+      "question": "Read the following text",
+      "audioText": "Read this6"
+    },
+    {
+      "id": 25,
+      "question": "Read the following text",
+      "audioText": "Read this7"
+    }
+  ]
+}
